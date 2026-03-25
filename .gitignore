@@ -1,17 +1,19 @@
-# Projects
-frontend/node_modules/
-frontend/.next/
-frontend/.env.local
-backend/.venv/
-backend/__pycache__/
-backend/*.pyc
-backend/.env
-
-# Local
+# General
 .DS_Store
 *.log
+.env
 .env.local
-.venv
-node_modules
-dist
-build
+
+# Python
+**/__pycache__/
+**/*.pyc
+.venv/
+backend/.venv/
+backend/app/__pycache__/
+
+# Node
+node_modules/
+frontend/node_modules/
+frontend/.next/
+build/
+dist/
