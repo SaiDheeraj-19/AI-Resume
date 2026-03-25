@@ -1,0 +1,62 @@
+{
+  "technical_skills": [
+    "python", "javascript", "typescript", "java", "c++", "c#", "ruby", "go", "rust", "php",
+    "swift", "kotlin", "scala", "r", "matlab", "perl", "bash", "shell", "powershell",
+    "html", "css", "html5", "css3", "xml", "json", "yaml", "sql", "nosql", "graphql",
+    "react", "react.js", "reactjs", "angular", "angularjs", "vue", "vue.js", "vuejs",
+    "next.js", "nextjs", "nuxt.js", "gatsby", "svelte", "backbone.js",
+    "node.js", "nodejs", "express", "express.js", "fastapi", "flask", "django",
+    "spring", "spring boot", "laravel", "rails", "ruby on rails", "asp.net",
+    "tensorflow", "pytorch", "keras", "scikit-learn", "sklearn", "xgboost", "lightgbm",
+    "pandas", "numpy", "scipy", "matplotlib", "seaborn", "plotly",
+    "machine learning", "deep learning", "neural networks", "nlp", "natural language processing",
+    "computer vision", "reinforcement learning", "generative ai", "llm", "large language models",
+    "transformers", "bert", "gpt", "langchain", "openai", "hugging face",
+    "aws", "amazon web services", "ec2", "s3", "lambda", "eks", "ecs", "rds",
+    "azure", "google cloud", "gcp", "firebase", "vercel", "netlify", "heroku",
+    "docker", "kubernetes", "k8s", "helm", "terraform", "ansible", "puppet", "chef",
+    "jenkins", "github actions", "gitlab ci", "circleci", "travis ci", "argocd",
+    "git", "github", "gitlab", "bitbucket", "svn",
+    "mysql", "postgresql", "postgres", "mongodb", "redis", "elasticsearch", "sqlite",
+    "cassandra", "dynamodb", "neo4j", "oracle", "sql server", "mariadb",
+    "kafka", "rabbitmq", "celery", "airflow", "spark", "hadoop", "hive", "flink",
+    "rest", "restful", "api", "graphql", "websocket", "grpc", "microservices",
+    "linux", "unix", "windows server", "nginx", "apache", "load balancing",
+    "ci/cd", "devops", "mlops", "data engineering", "data science", "data analysis",
+    "blockchain", "solidity", "web3", "ethereum", "smart contracts",
+    "opencv", "pandas", "dask", "pyspark", "jupyter", "anaconda",
+    "tailwind css", "bootstrap", "sass", "less", "styled-components", "material ui", "shadcn",
+    "redux", "zustand", "mobx", "context api", "react query", "swr",
+    "jest", "mocha", "pytest", "unittest", "selenium", "cypress", "playwright",
+    "figma", "sketch", "adobe xd", "photoshop", "illustrator"
+  ],
+  "soft_skills": [
+    "leadership", "communication", "teamwork", "collaboration", "problem solving",
+    "critical thinking", "analytical thinking", "creativity", "innovation",
+    "time management", "project management", "adaptability", "flexibility",
+    "attention to detail", "detail-oriented", "multitasking", "self-motivated",
+    "mentoring", "coaching", "presentation", "public speaking", "negotiation",
+    "conflict resolution", "emotional intelligence", "empathy", "customer service",
+    "strategic thinking", "decision making", "organization", "planning",
+    "research", "documentation", "writing", "technical writing",
+    "agile", "scrum", "kanban", "waterfall", "lean", "six sigma",
+    "cross-functional", "stakeholder management", "product management"
+  ],
+  "tools": [
+    "jira", "confluence", "notion", "trello", "asana", "monday.com", "slack",
+    "microsoft teams", "zoom", "google workspace", "office 365", "microsoft office",
+    "excel", "powerpoint", "word", "google sheets", "google docs",
+    "vscode", "visual studio", "intellij", "pycharm", "webstorm", "eclipse", "xcode",
+    "postman", "insomnia", "swagger", "datadog", "grafana", "prometheus", "splunk",
+    "tableau", "power bi", "looker", "qlik", "metabase", "superset",
+    "sentry", "new relic", "cloudwatch",
+    "android studio", "xcode", "react native", "flutter", "ionic",
+    "unity", "unreal engine", "blender", "maya", "3ds max",
+    "hadoop", "spark", "hive", "kafka", "airflow", "dbt", "snowflake", "databricks"
+  ],
+  "certifications_keywords": [
+    "certified", "certification", "aws certified", "google certified", "microsoft certified",
+    "pmp", "cisa", "cissp", "ceh", "comptia", "cisco", "ccna", "ccnp", "ccie",
+    "oracle certified", "salesforce certified", "kubernetes administrator", "cka"
+  ]
+}

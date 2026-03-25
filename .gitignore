@@ -1,0 +1,17 @@
+# Projects
+frontend/node_modules/
+frontend/.next/
+frontend/.env.local
+backend/.venv/
+backend/__pycache__/
+backend/*.pyc
+backend/.env
+
+# Local
+.DS_Store
+*.log
+.env.local
+.venv
+node_modules
+dist
+build
